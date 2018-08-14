@@ -1,0 +1,5 @@
+{
+  "peerDependencies": {
+    "graphql": "^0.13.2"
+  }
+}
